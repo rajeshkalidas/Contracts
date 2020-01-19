@@ -1,0 +1,24 @@
+<div class="toolbar" role="banner">
+  <img width="40" alt="Angular Logo"
+       src="https://pbs.twimg.com/profile_images/641991419247374336/BpmhNTB__400x400.jpg"/>
+  <span>Finlex</span>
+</div>
+
+<div *ngIf="(dataService.data$ | async) as result else loading"
+     [style.paddingTop.px]="65"
+     [style.paddingBottom.px]="20">
+  <table mat-table [dataSource]="result" class="mat-elevation-z8">
+    <ng-container *ngFor="let column of getColumnNames(result)" [matColumnDef]="column">
+      <th mat-header-cell *matHeaderCellDef>{{toTitleCase(column)}}</th>
+      <td mat-cell *matCellDef="let element"> {{element[column]}} </td>
+    </ng-container>
+    <tr mat-header-row *matHeaderRowDef="getColumnNames(result)"></tr>
+    <tr mat-row *matRowDef="let row; columns: getColumnNames(result);"></tr>
+  </table>
+</div>
+
+<ng-template #loading>
+  <div class="loading-indicator">
+    <mat-progress-spinner mode="indeterminate" color="accent"></mat-progress-spinner>
+  </div>
+</ng-template>
