@@ -1,110 +1,110 @@
 [
   {
     "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60329",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
+    "customerAddress": "Hohenstaufenstt 14 60329, Frankfurt",
+    "totalPrice": 102000,
+    "brokerAgentName": "Allas Corporate Finance",
+    "brokerCompanyName": "MyCompany.com",
+    "contractStartDate": "05-06-2012",
+    "contractEndDate": "21-10-2050"
+  },
+  {
+    "customerName": "Emma",
+    "customerAddress": "Grüner Weg 6 61169 Friedberg, Berlin",
+    "totalPrice": 135000,
+    "brokerAgentName": "Rickitt Mitchell Corporate Finance",
+    "brokerCompanyName": "ClientsRealEstate.com",
+    "contractStartDate": "10-06-2005",
+    "contractEndDate": "21-10-2035"
+  },
+  {
+    "customerName": "Anna",
+    "customerAddress": "Hohenstaufenstt 06 52327, Frankfurt",
+    "totalPrice": 1210000,
+    "brokerAgentName": "Mercer Corporate Finance",
+    "brokerCompanyName": "Estate.com",
+    "contractStartDate": "10-06-2005",
+    "contractEndDate": "21-10-2009"
+  },
+  {
+    "customerName": "Leon",
+    "customerAddress": "Grüner Weg 6 61169 Friedberg, Berlin",
+    "totalPrice": 154000,
+    "brokerAgentName": "Garbutt Groups",
+    "brokerCompanyName": "Bav.com",
+    "contractStartDate": "10-06-2002",
+    "contractEndDate": "21-10-2012"
+  },
+  {
+    "customerName": "Lucas",
+    "customerAddress": "Hohenstaufenstt 04 65227, Frankfurt",
+    "totalPrice": 100000,
+    "brokerAgentName": "Holes Corporate Finance",
+    "brokerCompanyName": "FavorForex.com",
+    "contractStartDate": "10-09-2007",
+    "contractEndDate": "01-10-2012"
+  },
+  {
+    "customerName": "Tobias",
+    "customerAddress": "Hohenstaufenstt 04 64327, Frankfurt",
+    "totalPrice": 125000,
+    "brokerAgentName": "JC Corporate Finance",
+    "brokerCompanyName": "HomeBrokerTU.com",
     "contractStartDate": "10-06-2007",
     "contractEndDate": "21-10-2012"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
+    "customerName": "Laura",
+    "customerAddress": "Postfach 32547 Oyenhausen, Frankfurt, GERMANY",
+    "totalPrice": 147000,
+    "brokerAgentName": "Hans Corporate Finance",
+    "brokerCompanyName": "SetBroker.com",
     "contractStartDate": "10-06-2007",
     "contractEndDate": "21-10-2012"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
+    "customerName": "Mia",
+    "customerAddress": "Hohenstaufenstt 09 65227, Frankfurt",
+    "totalPrice": 141000,
+    "brokerAgentName": "KJR Corporate Finance",
+    "brokerCompanyName": "Digital.com",
     "contractStartDate": "10-06-2007",
     "contractEndDate": "21-10-2012"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
+    "customerName": "Lena",
+    "customerAddress": "Hohenstaufenstt 10 60327, Frankfurt",
+    "totalPrice": 471000,
+    "brokerAgentName": "YJ Group",
+    "brokerCompanyName": "The Brokers.com",
     "contractStartDate": "10-06-2007",
     "contractEndDate": "21-10-2012"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
+    "customerName": "Julia",
+    "customerAddress": "Postfach 32546 Bad Oyenhausen GERMANY",
+    "totalPrice": 45000,
+    "brokerAgentName": "Hans Group",
+    "brokerCompanyName": "The Agents.com",
+    "contractStartDate": "10-06-2001",
+    "contractEndDate": "21-10-2016"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
+    "customerName": "Elias",
+    "customerAddress": "Hohenstaufenstt 94 25327, Frankfurt",
+    "totalPrice": 100000,
+    "brokerAgentName": "Traynor Corporate Finance",
+    "brokerCompanyName": "Release.com",
+    "contractStartDate": "10-06-1990",
+    "contractEndDate": "21-10-2011"
   },
   {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
-  },
-  {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
-  },
-  {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
-  },
-  {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
-  },
-  {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
-    "contractEndDate": "21-10-2012"
-  },
-  {
-    "customerName": "Rajesh",
-    "customerAddress": "Hohenstaufenstt 14 60327",
-    "totalPrice": 1000,
-    "brokerAgentName": "Hans",
-    "brokerCompanyName": "bac",
-    "contractStartDate": "10-06-2007",
+    "customerName": "Ben",
+    "customerAddress": "Postfach 32047 Oyenhausen GERMANY",
+    "totalPrice": 121000,
+    "brokerAgentName": "Rk Corporate Finance",
+    "brokerCompanyName": "The Estaste.com",
+    "contractStartDate": "10-06-2000",
     "contractEndDate": "21-10-2012"
   }
 ]
